@@ -1,0 +1,32 @@
+.main-con {
+  display: flex;
+  margin: 20px;
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.inner-con {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #d3d3d3;
+  padding: 8px;
+  width: 200px;
+}
+
+.inner-last {
+  padding: 8px;
+  width: 200px;
+}
+
+.text-para {
+  font-family: sans-serif;
+  color: #808080;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.text-head {
+  font-family: sans-serif;
+  font-size: 22px;
+}
